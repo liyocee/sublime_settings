@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"JSHint",
+		"Material Theme",
+		"MultiEditUtils",
+		"Package Control",
+		"Python Auto-Complete",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SyncedSideBar",
+		"Theme - Brogrammer",
+		"Theme - Ksix"
+	]
+}
